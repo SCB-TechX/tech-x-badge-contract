@@ -3,7 +3,12 @@ This repository is a EVM smart contract project for create and organize NFT badg
 
 ---
 ## Getting started
-### Install
-Run `yarn install` or `npm install` to install needed packages.
+Before you can use Truffle, you will have to install it using npm. Open a terminal and use the following to install it globally.
+`npm install -g truffle`
 
+### Install
+Run `npm install` to install needed packages.
+
+### Compile and Deploy
+Run `truffle compile` to complile smart contract.
 
