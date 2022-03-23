@@ -3,5 +3,7 @@ This repository is a EVM smart contract project for create and organize NFT badg
 
 ---
 ## Getting started
-To make it easy for you to get started, here's a list of recommended setup steps.
-1. 
+### Install
+Run `yarn install` or `npm install` to install needed packages.
+
+
